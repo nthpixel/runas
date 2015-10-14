@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="RunAs.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApplicationList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SSMS 2008|C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\Ssms.exe,VS 2010|C:\Program Files (x86)\Microsoft Visual Studio 10.0\Common7\IDE\devenv.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
